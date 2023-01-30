@@ -1,2 +1,2 @@
-# 100DaysOfCode
-## A 100 Days of coding in Python
+#PythonCodes
+**Different python codes I've been working on**
