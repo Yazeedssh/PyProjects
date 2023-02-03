@@ -1,3 +1,3 @@
 # PythonCodes
 
-*Different python codes I've been working on*
+*100 days of different python codes*
